@@ -2,4 +2,4 @@
 
 - 与springboot-webflux工程结合可以使用,springboot-webflux是server端
 
-- 需要把src/main/client加入到源码包中
+- 需要把src/main/client也设置为源码包
